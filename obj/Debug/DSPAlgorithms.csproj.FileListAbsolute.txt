@@ -1,0 +1,6 @@
+F:\DSP\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+F:\DSP\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+F:\DSP\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojAssemblyReference.cache
+F:\DSP\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+F:\DSP\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+F:\DSP\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
